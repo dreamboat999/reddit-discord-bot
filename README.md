@@ -10,7 +10,7 @@ Browse Reddit using this Discord bot! It downloads video posts, leaves r/5050 im
     <img src="https://top.gg/api/widget/711524405163065385.svg" alt="Reddit" />
     <p>Click here to invite</p>
 </a>
-
+ 
 ## Usage
 
 - 🔥 **`r/pics`**: shows a hot post from the r/pics subreddit.
